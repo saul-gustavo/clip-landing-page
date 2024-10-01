@@ -81,7 +81,17 @@ body {
     gap: 1.3rem;
 }
 
-.hero-btn, .clip-btn {
+.hero-btn {
+    width: 100%;
+    display: block;
+    border: none;
+    border-radius: 30px;
+    padding: 0.9rem 5rem;
+    cursor: pointer;
+    transition: all 0.3s ease;
+}
+
+.clip-btn {
     width: 100%;
     display: block;
     border: none;
