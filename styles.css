@@ -86,7 +86,7 @@ body {
     display: inline-block;
     border: none;
     border-radius: 30px;
-    padding: 0.9rem 5rem;
+    padding: 0.9rem 4.5rem;
     cursor: pointer;
     transition: all 0.3s ease;
 }
@@ -96,7 +96,7 @@ body {
     display: inline-block;
     border: none;
     border-radius: 30px;
-    padding: 0.9rem 5rem;
+    padding: 0.9rem 4.5rem;
     cursor: pointer;
     transition: all 0.3s ease;
 }
